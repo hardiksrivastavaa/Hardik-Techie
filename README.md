@@ -5,15 +5,15 @@
 
 ## 💫 About Me
 
-- 🌱 I’m currently learning **React.js**
-- 🤝 Open to collaborating on exciting **Frontend Projects**.
-- 💬 Ask me about **Frontend Technologies.**
-- 📫 Reach me at **hardikfgp@gmail.com** – Let's connect!
+- 🌱 I’m currently learning **MERN Stack**
+- 🤝 Open to collaborating on exciting **Full Stack Projects**.
+- 💬 Ask me about **MERN Stack**
+- 📫 Reach me at **hardiksrivastava.dev@gmail.com** – Let's connect!
 
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardiksrivastavaa) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/@hardikfgp) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/@devhardikkk) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hardiksrivastaava/) 
 
 ## 💻 Tech Stacks 
