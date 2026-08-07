@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="assets/ascii-portrait.svg" alt="ASCII portrait" width="560"/>
 
-<br/>
 
-<img src="assets/info-card.svg" alt="Info card" width="480"/>
+  <h1>Hi I'm Hardik Srivastava 🤝</h1>
 
-<h1>Hi I'm Hardik Srivastava 🤝</h1>
 
-<h3>I'm someone who is passionate about the art of coding.</h3>
+
+  <h3>I'm someone who is passionate about the art of coding.</h3>
+
+
 
 </div>
 
@@ -59,7 +59,3 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hardiksrivastavaa&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hardiksrivastavaa&theme=radical&hide_border=false)
-
-### 🟩 Contribution Heatmap (animated, self-hosted)
-
-<img src="assets/contrib-heatmap.svg" alt="Contribution heatmap" width="100%"/>
