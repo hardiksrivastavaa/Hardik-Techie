@@ -1,61 +1,95 @@
 <div align="center">
 
-
-
-  <h1>Hi I'm Hardik Srivastava 🤝</h1>
-
-
-
-  <h3>I'm someone who is passionate about the art of coding.</h3>
-
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Hardik+Srivastava+%F0%9F%91%8B;Full+Stack+Developer+(MERN);Passionate+about+the+art+of+coding" alt="Typing SVG" />
 
 </div>
 
+<br/>
+
 ## 💫 About Me
 
-- 🌱 I’m currently learning **MERN Stack**
-- 🤝 Open to collaborating on exciting **Full Stack Projects**.
-- 💬 Ask me about **MERN Stack**
-- 📫 Reach me at **hardiksrivastava.dev@gmail.com** – Let's connect!
+```yaml
+role: Full Stack Developer
+learning: MERN Stack
+looking_to_collaborate_on: Full Stack Projects
+ask_me_about: MERN Stack
+reach_me_at: hardiksrivastava.dev@gmail.com
+```
 
-## 🌐 Socials
+- 🌱 Currently leveling up my **MERN Stack** skills
+- 🤝 Open to collaborating on exciting **Full Stack Projects**
+- 💬 Ask me anything about **MERN Stack**
+- 📫 Let's connect — **hardiksrivastava.dev@gmail.com**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardiksrivastavaa)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/@devhardikkk)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hardiksrivastaava/)
+<br/>
 
-## 💻 Tech Stacks
+## 🌐 Connect With Me
 
-### MERN Stack
+<p align="left">
+<a href="https://www.linkedin.com/in/hardiksrivastavaa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://twitter.com/@devhardikkk" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a>
+<a href="https://www.instagram.com/hardiksrivastaava/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=react&logoColor=%2320232a)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white)
+<br/>
 
-### Common Tools
+## 💻 Tech Stack
 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-![GithubPages](https://img.shields.io/badge/Github%20Pages-121013?style=plastic&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-%230B0D0E.svg?style=plastic&logo=railway&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/cloudinary-%233498DB.svg?style=plastic&logo=cloudinary&logoColor=white)
-![WAMP Server](https://img.shields.io/badge/WAMP%20Server-%23DCDCDC.svg?style=plastic&logo=wampserver&logoColor=%23FF8800)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=plastic&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white)
-![STS](https://img.shields.io/badge/Spring%20Tool%20Suite-%236DB33F.svg?style=plastic&logo=spring&logoColor=white)
+**MERN Stack**
 
-### 📊 GitHub Stats
+<p align="left">
+<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+<img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+<img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=%2320232a" alt="React"/>
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
+<img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
+<img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/MongoDB%20Atlas-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Atlas"/>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hardiksrivastavaa&label=Profile%20views&color=0e75b6&style=flat" alt="hardiksrivastavaa" /> </p>
+**Tools & Platforms**
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hardiksrivastavaa&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hardiksrivastavaa&theme=radical&hide_border=false)
+<p align="left">
+<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Github%20Pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages"/>
+<img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+<img src="https://img.shields.io/badge/Railway-%230B0D0E.svg?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
+<img src="https://img.shields.io/badge/cloudinary-%233498DB.svg?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary"/>
+<img src="https://img.shields.io/badge/WAMP%20Server-%23DCDCDC.svg?style=for-the-badge&logo=wampserver&logoColor=%23FF8800" alt="WAMP Server"/>
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
+<img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Spring%20Tool%20Suite-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="STS"/>
+</p>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=0e75b6&label=Profile%20Views&query=%24.count&url=https%3A%2F%2Fkomarev.com%2Fghpvc%2F%3Fusername%3Dhardiksrivastavaa%26format%3Djson" alt="Profile views"/>
+</p>
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hardiksrivastavaa&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardiksrivastavaa&layout=compact&theme=radical&hide_border=true&include_all_commits=true&count_private=false" alt="Top Languages"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hardiksrivastavaa&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hardiksrivastavaa&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+<br/>
+
+<div align="center">
+
+⭐️ Thanks for stopping by — feel free to explore my repos and connect!
+
+</div>
