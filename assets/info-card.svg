@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="258" viewBox="0 0 480 258">
+<rect width="100%" height="100%" rx="10" fill="#0d1117" stroke="#30363d"/>
+<style>text{font-family:"Courier New",monospace;font-size:15px;}.k{fill:#39d353;font-weight:bold;} .v{fill:#e6edf3;} .h{fill:#39d353;font-weight:bold;font-size:17px;} .d{fill:#8b949e;}</style>
+<text x="20" y="30" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.00s" dur="0.5s" fill="freeze"/><tspan class="h">hardik@github</tspan></text>
+<text x="20" y="56" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.12s" dur="0.5s" fill="freeze"/><tspan class="d">------------------------------</tspan></text>
+<text x="20" y="82" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.24s" dur="0.5s" fill="freeze"/><tspan class="k">OS:</tspan> <tspan class="v">MERN Stack Enthusiast</tspan></text>
+<text x="20" y="108" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.36s" dur="0.5s" fill="freeze"/><tspan class="k">Role:</tspan> <tspan class="v">Full Stack Developer (Learning)</tspan></text>
+<text x="20" y="134" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.48s" dur="0.5s" fill="freeze"/><tspan class="k">Stack:</tspan> <tspan class="v">React, Node.js, Express, MongoDB</tspan></text>
+<text x="20" y="160" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.60s" dur="0.5s" fill="freeze"/><tspan class="k">Tools:</tspan> <tspan class="v">Git, VS Code, Vercel, Railway</tspan></text>
+<text x="20" y="186" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.72s" dur="0.5s" fill="freeze"/><tspan class="k">Status:</tspan> <tspan class="v">Open to collaborating on Full Stack projects</tspan></text>
+<text x="20" y="212" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.84s" dur="0.5s" fill="freeze"/><tspan class="k">Contact:</tspan> <tspan class="v">hardiksrivastava.dev@gmail.com</tspan></text>
+</svg>
